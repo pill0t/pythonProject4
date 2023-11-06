@@ -1,2 +1,2 @@
-.env
-strava_tokens.json
+/.env
+/strava_tokens.json
